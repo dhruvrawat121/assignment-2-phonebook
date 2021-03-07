@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phonebook</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1> Phonebook</h1>
+
+    <div>
+        
+        
+        <dt>A</dt>
+
+        <ul> 
+
+            <li>Aman</li>
+            <li>Amar</li>
+            <li>Amit</li>
+            <li>Anil</li>
+            <li>Anant</li>
+            <li>Anees</li>
+            <li>Arpit</li>
+        </ul>
+    </div>
+
+       
+    <div>
+        <dt>B</dt>
+
+
+        <ul> 
+
+            <li>Baban</li>
+            <li>bablu</li>
+            <li>Bunty</li>
+            <li>Baboon</li>
+            <li>Brian</li>
+            <li>brandon</li>
+            <li>bred</li>
+        </ul>
+    </div>
+
+   
+    <div>
+        <dt>C</dt>
+        <ul> 
+
+            <li>Chaman</li>
+            <li>charan</li>
+            <li>Chirkut</li>
+            <li>Chintu</li>
+            <li>chabeel</li>
+            <li>calvin</li>
+            <li>cello</li>
+        </ul>
+    </div>
+
+    
+    <div>
+        <dt>D</dt>
+        <ul> 
+
+            <li>Damman</li>
+            <li>Dhruv</li>
+            <li>Dharam</li>
+            <li>Daud</li>
+            <li>Don</li>
+            <li>Diamond</li>
+            
+        </ul>
+    </div>
+
+    
+    <div>
+        <dt>E</dt>
+
+        <ul> 
+            <li>Emily</li>
+            <li>Ethan.
+            </li>
+            <li>Evie</li>
+            <li>Eva</li>
+            <li>Erin</li>
+            <li>Ellie</li>
+            <li>Emma</li>
+            <li>Edward</li>
+            <li>Elizabeth</li>
+            <li>Eleanor</li>
+            <li>Elsa</li>
+            <li>Elsie</li>
+            <li>Elza</li>
+            <li>Eden</li>
+            <li>Elsa</li>
+            <li>Elsie</li>
+            <li>Elza</li>
+            <li>Eden</li>
+            <li>Emma</li>
+            <li>Edward</li>
+            <li>Elizabeth</li>
+        </ul>
+    </div>
+
+    <footer> This website is only for demo purposes</footer>
+   
+
+
+</body>
+</html>
