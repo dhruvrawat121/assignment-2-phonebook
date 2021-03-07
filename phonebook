@@ -110,3 +110,42 @@
 
 </body>
 </html>
+
+CSS code
+
+h1{
+
+font-family: 'Courier New', Courier, monospace;
+background-color: #d7a108;
+margin-top: 5px;
+padding: 20px;
+}
+
+div{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+}
+
+dt{    background-color:#d7a108;
+    position: sticky;
+    top: 1px;
+    padding: 5px;
+}
+
+h1::before{
+    content:'\1F4DE';
+}
+
+dt::before{
+    content: '\1F464';
+}
+
+  
+
+
+
+
+}
+
+
